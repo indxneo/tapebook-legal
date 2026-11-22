@@ -1,6 +1,6 @@
-# Tapebook: legal and support pages
+# Washi Journal: legal and support pages
 
-The public pages for the iPhone app Tapebook, served with GitHub Pages:
+The public pages for the iPhone app Washi Journal, served with GitHub Pages:
 
 - `privacy.html`: the privacy policy (the Privacy Policy URL in App Store Connect)
 - `support.html`: the support page (the Support URL in App Store Connect)
